@@ -1,2 +1,2 @@
 print("Roberto Tellez")
-print("Quien no arriesga no gana")
+print("Quien no arriesga no gana ")
