@@ -1,0 +1,24 @@
+Algoritmo de flujo para el hobbie que practico (natación)
+
+-Vestir traje de baño
+-Hacer estiramientos
+-Después de 5 minutos estirando, entrar a la alberca
+-Hacer buzos
+-Tomar una tabla de natación
+-Comenzar a patalear por 10 minutos recorriendo la alberca
+-Dejar tabla de natación
+-Empezar estilo crawl por 20 minutos
+-Al terminar, salir de la alberca
+-Tomar toalla y secarse
+-Retirarse de la alberca 
+-Fin
+
+Algoritmo para alguna practica operativa del trabajo (problemas de recolección de datos)
+-Si el dato no cae en base de datos, revisar si el plc esta encendido, si no lo esta, encender
+-Si esta encendido, revisar ultimo dato registrado en plc
+-Si el úlitmo dato es -1 significa que el sensor esta fallando (revisar)
+-Si el valor es > 0, revisar software de recolección
+-Si el software marca que escribe pero no cae información, reiniciar Recolector (quedo bug a nivel de bits)
+-Si el software no escribe reiniciar el plc (algun bit se quedó pegado)
+
+
